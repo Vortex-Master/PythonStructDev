@@ -1,0 +1,5 @@
+item,mass,CG_FS,CG_BL,CG_WL
+ESC,800,510,61.5,0
+Battery,700,510,-61.5,0
+Motor,250,100,-15,-5
+extra,250,100,15,-5

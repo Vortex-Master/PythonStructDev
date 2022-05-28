@@ -1,0 +1,19 @@
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
+Vortex Master (Education)
+Written by: Geoffrey Martin
+Contact: gblakem1999@gmail.com
+Started at: 2021-10-10 20:35:45.725694
+Message confirmed
+License check: Good
+
+Loading save window: DS3
+Loading manipulation window...
+	Save name: 		DS3
+	Aircraft name: 	Aircraft2
+	Body: 			Horizontal_Tail
+Applying changes: Horizontal_Tail
+Loading manipulation window...
+	Save name: 		DS3
+	Aircraft name: 	Aircraft2
+	Body: 			Horizontal_Tail
